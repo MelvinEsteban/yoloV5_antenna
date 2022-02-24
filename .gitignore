@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+./dataset/dataset_massalia
+./dataset/images
+./dataset/labels

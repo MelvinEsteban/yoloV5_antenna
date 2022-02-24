@@ -1,0 +1,1 @@
+python3 detect.py --source ../massalia-techia/data/submit --weights runs/train/yolov5_x_512_finetune/weights/best.pt --img-size 512 --device 0 --save-txt --conf 0.004 --aug
